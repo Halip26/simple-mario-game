@@ -5,7 +5,7 @@ import sys
 # inisialisasi library pygame
 pygame.init()
 
-# Tentukan ukuran windows game
+# Tentukan ukuran windows game tinggi dan lebarnya
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 600
 FPS = 20
